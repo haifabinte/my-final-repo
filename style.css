@@ -1,0 +1,10 @@
+p{
+    color: black;
+    background-color: rgb(233, 110, 22);
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: darkred;
+    background-color: dimgrey;
+    width: auto;
+}
